@@ -1,0 +1,2 @@
+# EasyTranslate
+simple
