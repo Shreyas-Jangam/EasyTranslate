@@ -22,6 +22,6 @@ class TranslateClass(object):
 
 
 if __name__ == '__main__':
-    translate = input('Enter Word/Sentence...')
+    translate = input('Enter Word or Sentence in english to translate it into hindi...')
     language = 'hi'  # Translates to Hindi
     print(TranslateClass(translate, language))
